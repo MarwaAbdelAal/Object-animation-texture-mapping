@@ -29,7 +29,7 @@ The robotic body we have already built in the previous task was put in this room
 ![alt text](images/4.jpeg?raw=true)
 
 
-1. Second one is the body with interactions with these objects.
+2. Second one is the body with interactions with these objects.
 
 ![alt text](images/5.jpeg?raw=true)
 
